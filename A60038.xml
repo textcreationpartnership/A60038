@@ -1,0 +1,318 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Short account of the manifest hand of God that hath fallen upon several marshals and their deputies who have made great spoil and havock of the goods of the people called Quakers in the island of Barbadoes for their testimony against going or sending to the militia : with a remarkable account of some others of the persecutors of the same people in the same island, together with an abstract of their sufferings.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 34 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60038</idno>
+            <idno type="STC">Wing S3540</idno>
+            <idno type="STC">ESTC R32670</idno>
+            <idno type="EEBO-CITATION">12744878</idno>
+            <idno type="OCLC">ocm 12744878</idno>
+            <idno type="VID">93222</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60038)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93222)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1536:34)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Short account of the manifest hand of God that hath fallen upon several marshals and their deputies who have made great spoil and havock of the goods of the people called Quakers in the island of Barbadoes for their testimony against going or sending to the militia : with a remarkable account of some others of the persecutors of the same people in the same island, together with an abstract of their sufferings.</title>
+               </titleStmt>
+               <extent>23 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by T. Sowle ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: pages stained and torn with print filled in manuscript.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Barbados --  Apologetic works.</term>
+               <term>Persecution --  Barbados.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Kate Allen</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Kate Allen</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:93222:1" rendition="simple:additions"/>
+            <p>A SHORT ACCOUNT OF THE <hi>Manifeſt Hand of God</hi> That hath Fallen upon Several Marſhals and their Deputies, Who have made Great Spoil and Havock of the Goods of the People of God called QUAKERS, IN THE Iſland of BARBADOES, For their TESTIMONY againſt Going or Sending to the MILITIA.</p>
+            <p>With a Remarkable Account of ſome others of the Perſe<g ref="char:EOLhyphen"/>cutors of the ſame People in the ſame Iſland. Together with an Abſtract of their Sufferings.</p>
+            <p>
+               <hi>LONDON,</hi> Printed and Sold by <hi>T. Sowle,</hi> near the <hi>Meeting-houſe</hi> in <hi>White-hart-court</hi> in <hi>Gracious-street.</hi> 1696.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:93222:2" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:93222:2" rendition="simple:additions"/>
+            <head>A SHORT ACCOUNT OF THE <hi>Manifeſt Hand of God</hi> That hath Fallen upon Several Marſhals AND Their Deputies. &amp;c.</head>
+            <div type="part">
+               <head>Samuel Buckley</head>
+               <p>A Rapacious and greedy Marſhall sometimes taking ten times the value of his Demand saying that the Overplus he would keep until the Fines had eaten it out, as if thereby he would inrich himſelf; yet not with ſtanding at ſeveral times he took from the aforesaid people to the value of Four and twenty thousand Pounds of Muſ<g ref="char:EOLhyphen"/>covado-Sugar; at laſtly about the year 1660 was fored to
+<pb n="4" facs="tcp:93222:3"/>run off the Iſland for Debt; and at <hi>Jamaica</hi> in a ſhort time after died of a Timpany, and ſtoppage of Water, having not wherewithal to bury him, but ſomething from the Alms of the People.</p>
+            </div>
+            <div type="part">
+               <head>Thomas Parry,</head>
+               <p>Another Marſhal, having taken to the value of Four thouſand pounds of Muſcovado-Sugar from the ſaid People, about the year 1665, was ſeized with ſuch a noiſome Di<g ref="char:EOLhyphen"/>ſtemper, that where he lived Veſſels were provided for him to eat and drink by himſelf; and in that condition he lan<g ref="char:EOLhyphen"/>guiſhed for a time, and then died after a very ſtrange man<g ref="char:EOLhyphen"/>ner<g ref="char:punc">▪</g> For in the morning he eat as at other times, and went into his room, where he laid himſelf croſs a ſtool, and was found dead, with a great quantity of Blood under him.</p>
+            </div>
+            <div type="part">
+               <head>John Godfrey,</head>
+               <p>Marſhal to Colonel <hi>Simon Lambert</hi>'s Regiment of Horſe, as he was Executing a Warrant, and taking away Goods from the People aforeſaid, becauſe they could not for Con<g ref="char:EOLhyphen"/>science ſake ſend nor appear to learn War, (which hath been their ancient Testimony from the beginning) the ſame day one of his children, amongſt many other Children at School was ſtruck dead by Thunder; and he himſelf, not<g ref="char:EOLhyphen"/>withstanding all his ill-gotten Goods, amounting to about Two and twenty thouſand Pounds of Muſcovado-Sugar, taken away by him and his Deputy <hi>John Clun,</hi> from the Year 1667, to the year 1670; went off the Iſland for Debt.</p>
+            </div>
+            <div type="part">
+               <pb n="5" facs="tcp:93222:3"/>
+               <head>Walcup Dangerfield,</head>
+               <p>A Marſhal to Colonel <hi>Baily,</hi> and no ways inferiour to his Predeceſſors in wickedneſs, was ſuffered a while, from the year 1668, to the year 1672, to make ſpoil of the ſaid Peoples Endeavours; but going for <hi>England,</hi> to ſee after ſomething fallen to him there, at Sea drinking very hard, and uttering many blaſphemous Speeches in his Cups, was ſoon after found dead in his Cabbin, as ſuppoſed to be ſti<g ref="char:EOLhyphen"/>fled in his own Vomit.</p>
+            </div>
+            <div type="part">
+               <head>William Clearke,</head>
+               <p>Another Marſhal, by a Fall from his Horſe was ſo brui<g ref="char:EOLhyphen"/>ſed, that his Body mortified in a miſerable manner, and he died a Spectacle of Horror (who in the year 1669, was buſi<g ref="char:EOLhyphen"/>ly concerned in taking away of the ſaid Peoples Goods) and it is credibly reported that he had above forty Pledgets uſed every dreſſing; and yet by the ſaid People was relieved in his greateſt neceſſity.</p>
+            </div>
+            <div type="part">
+               <head>Phillip Morgan,</head>
+               <p>Marſhal to Colonel <hi>Timothy Thornehill</hi> the Elder, about the year 1670, having taken away a conſiderable parcel of Goods from the ſaid People, yet died very poor, and was relieved by the Pariſh, notwithſtanding alſo that he had a good Eſtate by his Wife, yet all conſumed, and his Chil<g ref="char:EOLhyphen"/>dren came to be maintained by the Pariſh.</p>
+            </div>
+            <div type="part">
+               <head>Alexander Hancocke,</head>
+               <p>Notwithſtanding he had a good Employment, which was
+<pb n="6" facs="tcp:93222:4"/>the Practice of Chirurgery, whereby he might have got a commendable Livelihood, yet for unrighteous Gain, took up this Employment of a Marſhal, under Colonel <hi>Richard Baily,</hi> and after having in the year 1670, and 1671, waſted and deſtroyed much of the Goods of the ſaid People, died very poor, and leaving his Children to be maintain'd by others.</p>
+            </div>
+            <div type="part">
+               <head>Thomas Warrin,</head>
+               <p>Marſhal to Colonel <hi>Simon Lambert,</hi> with his Deputy <hi>William White-Church,</hi> after they had taken away from the ſaid People, from the year 1670, to the year 1681, to the value of One hundred thouſand pounds of Muſcovado Su<g ref="char:EOLhyphen"/>gar, yet died very poor, and had not of their own to re<g ref="char:EOLhyphen"/>lieve them in their ſickneſs, nor to bury them.</p>
+            </div>
+            <div type="part">
+               <head>Thomas Forriſter,</head>
+               <p>An eminently wicked and rapacious Marſhal, who held the place about fourteen or fifteen years, at times, in which he took from the aforeſaid People to the value of two thou<g ref="char:EOLhyphen"/>ſand one hundred ſeventy five pounds <hi>ſterling,</hi> beſides many conſiderable Sums not brought in, and all for account of the Militia, who in levying his Executions was very abuſive; who ſome years before his Death, on a ſick Bed, pretended he prayed to God to ſhew him if he had committed any Evil in taking away the <hi>Quakers</hi> Goods, and that he was in a kind of a Trance, aſſured by a ſmall Voice like a Child's, (which he believed to be God, or Jeſus Chriſt) encouraged to go on in his Practice; and this he would often repeat, when he was executing his wicked Office, ſcoffingly: Not long after, the Lord viſited him again with a languiſhing Di<g ref="char:EOLhyphen"/>ſtemper, of which he died: He was a horrible Swearer, and taken in Adultery by his own Wife. He died very poor; his
+<pb n="7" facs="tcp:93222:4"/>Wife and Children alſo ſoon died after him; who were fain to be Relieved and Buried at the Charge of others, to the Admiration of many, how ſuch vaſt Sums could be Con<g ref="char:EOLhyphen"/>ſumed.</p>
+            </div>
+            <div type="part">
+               <head>Charles Clinton,</head>
+               <p>Son-in-Law to this aboveſaid Marſhal, turned Marſhal, and followed his Father's Footſteps; but what he took after this manner proſpered not, ſo that he ſoon run away in a ſmall Fiſhing-boat much in Debt, Curſing his Father-in-Law for perſwading him to that Imployment.</p>
+            </div>
+            <div type="part">
+               <head>Jonathan Scarborough,</head>
+               <p>Marſhal, a very Wicked and Abuſive Man, both in Language, Geſture and Behaviour, after having taken to the Value upwards of Seventeen Thouſand Pounds of Muſ<g ref="char:EOLhyphen"/>covado Sugar, between the Years 1672, and the Year 1675, was forced to run off the Iſland for Debt, and in a ſhort time after Died at the <hi>Leeward Iſlands</hi> very Poor.</p>
+            </div>
+            <div type="part">
+               <head>Daniel Leech,</head>
+               <p>Marſhal to Colonel <hi>Richard Baily,</hi> having taken away Goods from the ſaid People, was Troubled and Convicted in his Conſcience, as he Confeſſed himſelf, upon which he laid down his Place, having an Eſtate of his own, and a good Trade beſides; yet afterwards took up that ſame Place again, under Colonel <hi>John Sampſon,</hi> and made a greater Spoil of the ſaid Peoples Goods, taking away upwards of Twelve Thouſand Pounds of Muſcovado Sugar; but after all, Died very Poor and Miſerable, and in Debt.</p>
+            </div>
+            <div type="part">
+               <pb n="8" facs="tcp:93222:5"/>
+               <head>Thomas Stronee,</head>
+               <p>Marſhal to the aboveſaid Colonel <hi>Baily,</hi> when he had taken Conſiderable quantities of Goods in the Years 1673, and 1674, from the ſaid People, Died in a very Miſerable Condition, and under Convictions of Conſcience.</p>
+            </div>
+            <div type="part">
+               <head>Thomas Caudle,</head>
+               <p>Marſhal to Colonel <hi>John Waterman,</hi> a very Bad and Wicked Man, who took away great quantities of Goods from the ſaid People, alſo exceeding the Law (which was ſevere enough) altering the Colonels Execution to his own Ungodly Advantage; and though he got much Goods this way, yet a Curſe fell upon his Endeavours, and he Died ve<g ref="char:EOLhyphen"/>ry Poor, notwithſtanding he had another Employment, which was, to Gather the Prieſt's Wages, and for that made Spoil alſo, both being from between the Years 1673, and 1679; he was alſo Clark of the Pariſh, yet was Relieved by ſome of the ſaid People before he Died.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>John Batt,</hi> Junior,</head>
+               <p>Marſhal to Colonel <hi>Thornehill,</hi> having in the Years 1675, and 1677, taken Conſiderable from the ſaid People, was afterward viſited by the Lord, and upon his Death-bed made to give forth theſe following Lines.</p>
+               <floatingText xml:lang="eng" type="letter">
+                  <body>
+                     <p>
+                        <hi>Whereas I</hi> John Batt <hi>the Younger, of the Iſland of</hi> Barba<g ref="char:EOLhyphen"/>does, <hi>was lately by Commiſſion from Colonel</hi> Thornehill, <hi>Mar<g ref="char:EOLhyphen"/>ſhal to his Regiment of Foot-Soldiers, and by that Power did Diſtrain upon the Eſtates of ſeveral of the People called</hi> Quakers, <hi>and took, and carried away many Parcels of their Sugar, and o<g ref="char:EOLhyphen"/>ther
+<pb n="9" facs="tcp:93222:5"/>Goods, for their Defaults in not appearing in Arms in the ſaid Regiment, which they refuſed out of Tenderneſs of Conſci<g ref="char:EOLhyphen"/>ence, to which I had not regard; but now the Lord having laid his Hand ſorely on me, by afflicting me with a hard and grievous Sickneſs, thoſe things done to the aforeſaid People comes freſh in my Mind to my very great Grief and Terror, and I do declare, that all the Sins that I have been Guilty of beſides (which are very many) do not trouble or lye ſo heavy on my Conſcience, as that my doings to that People; and do believe that no Man will ever be Bleſſed, or Proſper, that practice ſuch things againſt that People: In witneſs whereof I have hereunto ſet my Hand this Tenth Day of</hi> May, 1679.</p>
+                     <p>
+                        <hi>Witneſs:</hi> William Howard, Antrobus.</p>
+                     <closer>
+                        <signed>John Batt, <hi>Jun.</hi>
+                        </signed>
+                     </closer>
+                  </body>
+               </floatingText>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>William</hi> St. <hi>Barbe,</hi>
+               </head>
+               <p>Marſhal to Colonel <hi>Bayly,</hi> he ſo exceeded the Law, that the Colonel was often forced to threaten him, calling him Rogue, and forcing him to return Goods again Illegally ta<g ref="char:EOLhyphen"/>ken away; he took from a very poor Man his Feather-bed for Fifty Pounds of Muſcovado Sugar, for not appearing in Arms, the Blanket being Appraiſed at the Sum; who was ſuffered to ſpoil and carry away Goods to the Value of up<g ref="char:EOLhyphen"/>wards of Twelve Thouſand Pounds of Muſcovado Sugar from the ſaid People; yet he has often been glad of a Meals Meat ſince from the ſaid People.</p>
+            </div>
+            <div type="part">
+               <head>Samuel Hopkins,</head>
+               <p>Marſhal to Colonel <hi>Timothy Thornehill</hi> the Elder, having taken away large quantities of Goods from the ſaid People, yet what he took proſpered not, for he ſpent much in a ve<g ref="char:EOLhyphen"/>ry
+<pb n="10" facs="tcp:93222:6"/>wicked manner, and then run away with another Mans Wife, (though he had one of his own) and in <hi>Virginia</hi> he miſerably ended his days, according to Credible Informa<g ref="char:EOLhyphen"/>tion.</p>
+            </div>
+            <div type="part">
+               <head>William Thomas,</head>
+               <p>Deputy to <hi>Leech,</hi> Marſhal to Colonel <hi>Richard Bayly,</hi> act<g ref="char:EOLhyphen"/>ing very wickedly, carrying away much of the ſaid Peoples Goods, from the Year 1679, to the Year 1683; but after<g ref="char:EOLhyphen"/>ward Died very miſerable, wanting a Meals-meat, and had not Linnen to make him a Shroud, as his Wife reported.</p>
+            </div>
+            <div type="part">
+               <head>Robert Fitzherbert,</head>
+               <p>A great Troubler of the Innocent People aforeſaid, who from the Year 1681, to the Year 1686, made great waſte of their Subſtance, amounting to upwards of one Hundred and Twenty Thouſand Pounds of Muſcovado Sugar, and one Hundred and Twenty Pounds Sterling, which with Honeſty and Induſtry they had gotten; a great deal he car<g ref="char:EOLhyphen"/>ried away without Law; the Colonel, <hi>Samuel Newton,</hi> took care to redreſs them, and for Attempting it, was by the Complaint of <hi>Fitzherbert,</hi> ſeverely reprehended by <hi>Ri<g ref="char:EOLhyphen"/>chard Dutton,</hi> then Governor, and it is ſaid, of a Kin to the ſaid <hi>Fitzherbert:</hi> (he went off this Iſland, not having wherewith to pay his paſſage) but ſome time before, a Complaint being made for his Illegal Proceedings to Colo<g ref="char:EOLhyphen"/>nel <hi>Buckley,</hi> the ſaid <hi>Buckley</hi> turned him out of his Marſhals Place,</p>
+            </div>
+            <div type="part">
+               <pb n="11" facs="tcp:93222:6"/>
+               <head>Benjamin Carteritt</head>
+               <p>Marſhal, after having taken away from the aforeſaid People Goods to the Value of Seventeen Thouſand Pounds of Muſcovado Sugar, about the Year 1682, and after ha<g ref="char:EOLhyphen"/>ving taken away one Cow, and one Heifer, from one of the ſaid People, being a Widow-woman, died immediately af<g ref="char:EOLhyphen"/>terward very ſuddenly, crying out of a great Fire burning within him, and going to a Jugg of Cool Drink to quench his Thirſt or Heat, fell down and died, to the great Af<g ref="char:EOLhyphen"/>frightment of ſome preſent; ſeeming as if it was a Juſt re<g ref="char:EOLhyphen"/>compence of Reward for his Unjuſt and Illegal Dealings, and his great Debaucheries and Exceſs.</p>
+            </div>
+            <div type="part">
+               <head>John Nobbs,</head>
+               <p>Marſhal to Colonel <hi>Alexander Ruddock,</hi> having for ſeve<g ref="char:EOLhyphen"/>ral Years together carried away much of the aforeſaid Peo<g ref="char:EOLhyphen"/>ples Goods, by which Place, and by his being Marſhal, and Crier to a Court of Common-Pleas at once, his In<g ref="char:EOLhyphen"/>comes was great; but in the midſt of his Gettings, he run Diſtracted Mad: He had Six <hi>Negroes</hi> at once, beſides Cat<g ref="char:EOLhyphen"/>tel, and other Stock; one of his <hi>Negroes,</hi> when in that Condition, he was the Death of, by Cruel Uſage; and ano<g ref="char:EOLhyphen"/>ther he run through the Thigh with a Sword, and he Died ſoon after, as alſo all the reſt, with Cattel, and other Stock; and ſo continued Raving Mad, breaking and throw<g ref="char:EOLhyphen"/>ing every thing he could lay his hands on, and often Con<g ref="char:EOLhyphen"/>triving what he ſhould get for the Judges Dinner, for which, at one time he was going to Cut a piece out of his Horſes Buttocks for the Judges better Entertainment, but was hindred, and ſtill continued Mad; inſomuch that he was forced to leave all his Offices, he not being in a Condition
+<pb n="12" facs="tcp:93222:7"/>to follow it any longer, and Lives Miſerable and Poor. And one <hi>John Redaway,</hi> that uſed to Buy ſuch Goods as the ſaid <hi>Nobbs</hi> carried from his Neighbours, did not proſper, but an Eſtate that his Father left him, and upon which he might have Lived Comfortably, waſted ſtrangely away.</p>
+            </div>
+            <div type="part">
+               <head>James Harris,</head>
+               <p>Who was for ſome time Marſhal to Colonel <hi>Abel Allen,</hi> a very moderate man, Executed his Office with great Ri<g ref="char:EOLhyphen"/>gour, often exceeding the Law, to the Trouble of the ſaid Colonel, who often made him return the Effects; till at laſt being turned out of his Place, was reduced to great Penury and Want, being often troubled with Fits, ſo that People where he uſed were weary of his Society, which made him complain, that <hi>where he had ſpent his Money, they would not give him a Bit of Bread in his Extremity;</hi> he ſoon after Died in great Rage and Diſcontent.</p>
+            </div>
+            <div type="part">
+               <head>William Hawes,</head>
+               <p>Marſhal to Colonel <hi>Timothy Thornehill</hi> the Younger, he alſo took great quantities of Goods from the aforeſaid Peo<g ref="char:EOLhyphen"/>ple, for not appearing in Arms, for which, in one Day, there was Returns made in the ſaid <hi>Thornehill</hi>'s Regiment, as the ſaid <hi>Hawes</hi> himſelf boaſted, to the Value of above Twenty Thouſand Pounds of Sugar; and although he had gotten much Wealth (according to the promiſe made him by the ſaid <hi>Thornehill,</hi> who made him his Marſhal) by this and his Marſhals place of Common pleas, being alſo Col<g ref="char:EOLhyphen"/>lector of the Pariſh for the Prieſt-hire, yet he proſpered not, but decayed both in Body and Goods, being a long time Afflicted with that Miſerable Diſtemper called the <hi>Belly-Ach,</hi> until he had almoſt loſt the uſe of his Limbs;
+<pb n="13" facs="tcp:93222:7"/>his Wife alſo, by whom he had had ſeveral Baſtard Chil<g ref="char:EOLhyphen"/>dren, left him in his Extremity; and he being without means or hopes of outward Subſiſtance in this Iſland, in<g ref="char:EOLhyphen"/>tended off for <hi>New-York,</hi> hoping for Relief by the Charity of a Siſter he had there; and in order thereto, according to the Cuſtom of this Iſland, did put up his Name in the Se<g ref="char:EOLhyphen"/>cretary's Office, but was under-writ for the Sum of Seven Pounds, which neither his Maſter's, (whoſe Drudgery he had done) nor his own Purſe, could or would procure that Sum; ſo that he being therein diſappointed, was glad to go from Houſe to Houſe, till in ſome ſhort time after he Died very Poor and Miſerable; and had not the fear of Of<g ref="char:EOLhyphen"/>fence to the Living given him a Burial, more than the Good-will of his Friends, or Ability of his Purſe, he might have remained Unburied as a further Warning to others.</p>
+            </div>
+            <div type="part">
+               <head>Durant Alſop,</head>
+               <p>Marſhal to Colonel <hi>John Farmer,</hi> (and a profeſt Papiſt) who after great Havock made of thoſe Induſtrious Peoples Labours, about the Year 1685, taking away above Thirty Pounds Sterling in one Day, as himſelf confeſt, yet being out of his place, was very poor and indigent.</p>
+            </div>
+            <div type="part">
+               <head>Allyn Hughſon,</head>
+               <p>Another Wicked Marſhal, who after a great Deſtructi<g ref="char:EOLhyphen"/>on in the Year 1685, and 1686, of thoſe Peoples Eſtates, run away.</p>
+            </div>
+            <div type="part">
+               <head>John Thurborne,</head>
+               <p>Marſhal to Colonel <hi>Tidcombe,</hi> every way fitted for ſuch an Unrighteous Undertaking, and had ſpent a Conſidera<g ref="char:EOLhyphen"/>ble
+<pb n="14" facs="tcp:93222:8"/>Eſtate by Debauchery, and in his Want and Sickneſs deſired Relief from the Quakers, and had it from ſome of them; but when he recovered his Health, baſely became a Marſhal in the ſame Regiment where he had been a Cap<g ref="char:EOLhyphen"/>tain, and Executed the Place with great Severity, from the Year 1686, to the Year 1689, againſt thoſe People that had Adminiſtred to his Neceſſities.</p>
+               <p>He would ſcoffingly call the Quakers his <hi>Milch-Cows,</hi> of<g ref="char:EOLhyphen"/>ten ſaying, <hi>George Gray</hi> (one of theſe People) <hi>was one of his beſt Cows, and gave a brave Meſs of Milk every Exerciſing-Day.</hi>
+               </p>
+               <p>He came to a poor Friends Houſe to Execute his Office, and took away a Fat Hog worth two or three times his demand, though there were ſmaller in ſight; but under<g ref="char:EOLhyphen"/>ſtanding what need the poor Man had of it, for the Relief of his Family, choſe rather to carry it away, that his Ra<g ref="char:EOLhyphen"/>pine might be the greater, and threatned the poor Man, That he would <hi>make his Heart burn for Ten Weeks, and then come for Five Pounds for an Alarum,</hi> for which he took a<g ref="char:EOLhyphen"/>way a Heifer, and two Hogs, worth Six Pound Sterling: After this manner did he prey upon theſe People, devour<g ref="char:EOLhyphen"/>ing a great quantity of their Goods; yet became Miſerable, and the Judgments of God purſued him, and a <hi>Fiſtula</hi> aroſe in his Fundament that would admit of no Cure, which gave him ſuch pain and miſery, that he would often Curſe his Body where it was, till at laſt he miſerably finiſht his Evil Courſe of Life, leaving nothing to pay his Juſt Debts.</p>
+            </div>
+            <div type="part">
+               <head>Andrew Kenny,</head>
+               <p>Marſhal to Colonel <hi>Abel Allen,</hi> who though he continu<g ref="char:EOLhyphen"/>ed not long in the place, yet Imployed his time in the Year <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>88, to the utmoſt, in carrying away the aboveſaid Peo<g ref="char:EOLhyphen"/>ples
+<pb n="15" facs="tcp:93222:8"/>Goods, but in the end was forced to ſubmit to the Fate of ſeveral of his Brethren, and run away for Debt.</p>
+            </div>
+            <div type="part">
+               <head>William Meagher,</head>
+               <p>An <hi>Iriſhman,</hi> and Deputy to <hi>John Maugrah,</hi> Marſhal to Colonel <hi>Thomas Colliton,</hi> when he was taking Goods from <hi>John Tod,</hi> one of the aforeſaid People, for account of the <hi>Mi<g ref="char:EOLhyphen"/>litia,</hi> did draw his Sword, and wilfully Stab the ſaid <hi>Tod</hi>'s Overſeer into his Body, ſo that he ſoon after Died of the Wound; for which Fact he was Tried, and found Guilty of Murder, yet Reprieved; and the Noiſe was that a Par<g ref="char:EOLhyphen"/>don might be expected, ſo at laſt had Liberty to ſeek a Live<g ref="char:EOLhyphen"/>lihood, but waſted away, and Died ſo miſerable poor, that one of his Countrymen was forced to Bury him, having not wherewith of his own; but we never yet underſtood of any Pardon that ever came.</p>
+               <p>Now after he had Attached Ginger from the aboveſaid <hi>Tod,</hi> he would have removed his Execution, and laid it up<g ref="char:EOLhyphen"/>on a Cow which the ſaid Overſeer would not let him do, being contrary to Law, wherefore he drew his Sword, and run it into his Body, and Kill'd him.</p>
+            </div>
+            <div type="part">
+               <head>Francis Chamberlaine,</head>
+               <p>Marſhal to Colonel <hi>Abel Allen,</hi> who alſo delighted in the Spoiling the Juſt-gotten Goods of thoſe People; but he was ſoon called to an Account, and ſtopt in his Career; he was ſeized with a Malignant Fever, which had ſwept away a great number of People in that Iſland, between the Years 1690, and 1691, by which Fever, himſelf, Wife, and Siſter, were all taken away in Twenty-four hours ſpace, which ſtruck ſuch a Terror on his Neighbours and Relations, that none cared to come near them, not ſo much as a Siſter of
+<pb n="16" facs="tcp:93222:9" rendition="simple:additions"/>his, whoſe Husband ordered their Burial, but ſaid, <hi>He would not go into the Houſe if it were full of Gold,</hi> but ſent <hi>Negrees</hi> to carry them. It ſeemed terrible to him to behold his Wife and Siſter dead by him; his Diſtemper by his Doctors was thought to be over, for he got up, and be<g ref="char:EOLhyphen"/>holding the dead Bodies of his Wife and Siſter, lay down in a Hamock, and never ſpoke more, which is the account of a Woman that lookt after them.</p>
+            </div>
+            <div type="part">
+               <head>Charles Lucas,</head>
+               <p>Deputy-Marſhal to Colonel <hi>Tobias Frere</hi> of the Wind<g ref="char:EOLhyphen"/>ward Regiment of Foot, who after having taken away much of the Goods of the aforeſaid People, was Killed by a Fall into a Well.</p>
+            </div>
+            <div type="part">
+               <head>Charles Lucas,</head>
+               <p>Marſhal to the aforeſaid Colonel, after having made Spoil, and carried away much Goods of the aforeſaid People, about the year 1694 ſickned, crying out much of one that he had Killed, and of the Devil; ſaying to the People by him, <hi>Do you not ſee him?</hi> And ſo ended his Days wretchedly.</p>
+            </div>
+            <div type="part">
+               <pb n="17" facs="tcp:93222:9" rendition="simple:additions"/>
+               <head>Here Followeth An ACCOUNT Remarkable OF <hi>The Hand of GOD</hi> Upon ſome other PERSECUTORS In the ſame ISLAND.</head>
+               <p>SOme Friends in this place having conſiderable Quan<g ref="char:EOLhyphen"/>tities of Negroes, who being naturally inclined to Looſneſs and Wickedneſs, in taking more Wives and Husbands than one (a Cuſtom in their own Country) and being very ignorant, and averſe to that which is good; believed it their indiſpenſible Duty to ſet ſome time apart to labour with them, and to inſtruct them in the things
+<pb n="18" facs="tcp:93222:10"/>of God: And in order thereunto, moſt Friends that had Negroes ſet apart one hour or two once a week to in<g ref="char:EOLhyphen"/>ſtruct them according to their underſtanding, and to read the Scriptures to them, directing them to the inward Teacher, whereby they might be led out of Stealing, Murdering, Plotting, and of their Uncleanneſs and Adul<g ref="char:EOLhyphen"/>tery. This Chriſtian Practice ſo offended the then Autho<g ref="char:EOLhyphen"/>rity, that a Law was made, entituled, <hi>An Act to prevent the People call'd Quakers from bringing their Negroes to their Meetings,</hi> (though it was in their own Houſes) the Pe<g ref="char:EOLhyphen"/>nalty being no leſs than the forfeiting of each Negroe that was found at a Meeting, or Ten pounds <hi>ſterling</hi> a piece for each Negroe.</p>
+               <p>Some Friends were ſoon proſecuted by the ſame Law with great violence, and large expectations of the Inform<g ref="char:EOLhyphen"/>ers: One <hi>Thomas Cobham</hi> began, and brought an Action againſt <hi>Ralph Fretwell,</hi> for Eighty Negroes of his own at a Meeting in his own Family, for Eight hundred pound <hi>ſterling;</hi> and alſo againſt <hi>Lewis Morris,</hi> for a very great Sum; the ſaid <hi>Cobham</hi> being countenanced by one <hi>John Merrick,</hi> a Juſtice of the Peace, and an Aſſiſtant of the Court where the Actions were to be tried; and after ſeve<g ref="char:EOLhyphen"/>ral Courts, Judgment was given in favour of the Defen<g ref="char:EOLhyphen"/>dants, to the great Diſappointment of the Envious, eſpe<g ref="char:EOLhyphen"/>cially one <hi>Charles Collins</hi> a Lawyer, who uſed his utmoſt Skill in behalf of the Informers. But the aboveſaid <hi>Thomas Cobham</hi> the Informer, who of a luſty likely young man, in a ſmall time became dejected, being generally ſlighted, and his company refuſed by ſeveral for being an Informer; and ſoon after was taken with a Fever and Swelling in his Neck and Throat, which daily increaſed in a very ſtrange man<g ref="char:EOLhyphen"/>ner; ſo that towards his latter End, he cried out, <hi>Fire, fire, he was all on fire;</hi> and ſaid to his Mother, <hi>She need not provide a Coffin for him, for he ſhould be burnt up before it was made;</hi>
+                  <pb n="19" facs="tcp:93222:10"/>crying out, <hi>Neither Heaven nor Hell, but all fire, fire;</hi> and cried ſaying, <hi>Now the Quakers will ſay, It is a Judgment fal<g ref="char:EOLhyphen"/>len on me.</hi> After this manner did this miſerable man end his Days.</p>
+               <p>Soon after died <hi>John Daw</hi> of a Surfeit by Drinking, who was an Inſtrument in this evil Work. Alſo,</p>
+               <p>
+                  <hi>John Mackfaſhion,</hi> one of the Evidences, never thrived afterwards, but in a ſmall time died of that deplorable Diſ<g ref="char:EOLhyphen"/>eaſe called the Belly-ake.</p>
+               <p>And the aforeſaid Juſtice, <hi>John Merrick,</hi> riding to his own Houſe in Drink, was thrown by his Horſe, to the hurt<g ref="char:EOLhyphen"/>ing of his Brain, (though no outward appearance) who continued ſome few days in a violent raving condition, to the Terror of his Friends, and then died.</p>
+               <p>
+                  <hi>William Sharp,</hi> an Eminent Man, and Judge of a Court, was a great Oppoſer of our Labour with theſe poor Ne<g ref="char:EOLhyphen"/>groes; who riding from his own Houſe to the <hi>Bridge Town,</hi> (ſeemingly very well) fell from his Horſe before he got to the Town, and we cannot underſtand that he ever ſpake afterwards (except <hi>O my Head</hi>) and in three or four Days afterwards died.</p>
+            </div>
+            <div type="part">
+               <head>Alexander Ruddock,</head>
+               <p>A Colonel of a Regiment of Foot, and Judge of a Court, and one of the Council, and of the Nation of <hi>Scot<g ref="char:EOLhyphen"/>land:</hi> He appeared, without any juſt Cauſe, very bitter and envious againſt us: He cauſed a Friend to be rated 400 pounds of Sugar towards payment of the Prieſts Wages, (who never wrought for him) the Prieſt being his Son in-Law; for which was taken from the ſaid Friend a Cow worth Ten Pound <hi>ſterling;</hi> and upon Complaint of the ſaid Friend, and upon Enquiry, there was but ten pounds of Su<g ref="char:EOLhyphen"/>gar appeared to be their pretended Due: For the Poors
+<pb n="20" facs="tcp:93222:11"/>part, and for mending Highways, we duely pay; but this being the Prieſts part, he could not for Conſcience pay; yet was this unjuſt Action vindicated by the ſaid <hi>Ruddock,</hi> not<g ref="char:EOLhyphen"/>withſtanding ſome of the Magiſtrates that were at the hear<g ref="char:EOLhyphen"/>ing of the matter, would have had the Cow returned to the right Owner; but becauſe the ſaid Friend had com<g ref="char:EOLhyphen"/>plained of the Wrong and Oppreſſion, he the ſaid <hi>Ruddock</hi> being Judge of the Quarter Seſſions, cauſed him to be fi<g ref="char:EOLhyphen"/>ned five pounds <hi>ſterling,</hi> becauſe he could not take the Oath of a Conſtable (which for Conſcience-ſake he only refuſed) although he was willing to have performed the Office, ac<g ref="char:EOLhyphen"/>cording to his Ability and Underſtanding, if he might have been permitted without an Oath, which ſeveral Friends had been, by moderate Magiſtrates, and found to perform the ſame honeſtly and diligently: For which Fine, the ſaid <hi>Ruddock</hi> the Judge iſſued out his Warrant againſt the ſaid Friend to a Conſtable, upon which was taken from him a Negroe Woman, which they had to the Conſtables Houſe, where <hi>Ruddock</hi> was himſelf, and ſo ordered the matter, that the ſaid Negroe was valued but at two thouſand three hundred pounds of Sugar, which as the price of Sugar then went, might amount to 11 <hi>l.</hi> 10<hi>s.</hi> which Negroe was ſold ſome time after for 26 <hi>l.</hi> and was all kept for the Fine of 5<hi>l.</hi> And the ſaid Friend having ſuffered above Seven thouſand pounds of Sugar in one year by his means, which the ſaid Friend laid before him in the preſence of his Daughter, the Prieſts Wife, telling him he had ſuffered all that for com<g ref="char:EOLhyphen"/>plaining of the Wrong he had done him about his Cow, <hi>&amp;c.</hi> at which he ſeemed greatly to rejoyce, and ſaid it ſhould be ſo yearly, ſo long as he was Magiſtrate: But he did not live a year after. He ſhewed his great willingneſs and deſire to perſecute Friends on all occaſions; and the laſt time he ſat in Council, and knowing there was an Order form the Gover<g ref="char:EOLhyphen"/>nour to break up Friends Meetings, he ſtaid after the Coun<g ref="char:EOLhyphen"/>cil
+<pb n="21" facs="tcp:93222:11"/>broke up, which was late, for the Order to break up our Meeting in his Precincts, and promiſed the Governour di<g ref="char:EOLhyphen"/>ligently to obey all his Commands: But calling at Judge <hi>Rees,</hi> in his way home, was taken ill; but went home, and calling for a Medicine called <hi>Cream of Tartar,</hi> which he uſed to take in his Broth, by his own miſtake took <hi>Arſe<g ref="char:EOLhyphen"/>nick</hi> inſtead thereof, and ſo wretchedly ended his Days; which may be a Warning to others.</p>
+               <p>He threatned that with the Money taken from us, there ſhould be a Priſon built for us: He would not let us eat freſh Meat, and went to take away the Meat which a Friend bought in the Market, ſaying he would have it, although the Butcher told him ſeveral times that he had ſold it, and was receiving the Money fot it.</p>
+               <p>Another Friend having bought Meat in the Market, and the Butcher carrying it to his Houſe, was met in the way by the ſaid <hi>Ruddock,</hi> who commanded him to carry it back into the Market, ſaying, <hi>They ſhall not eat freſh Meat;</hi> the man turned back, and durſt not carry the Friend his Meat which he had bought of him. He was for putting Negroes to Death for Example, ſaying, <hi>What was it for Barbadoes to put twenty or thirty Negroes to Death yearly for Example-ſake.</hi> He cauſed ſome Friends to be prick'd for Conſtables, on purpoſe to Fine them, ſaying it ſhould be ſo every year. This is but a branch of his Cruelty, for he made great ſpoil of Friends Goods upon the Militia-Ac<g ref="char:EOLhyphen"/>count, as he was Colonel: It is wonderful to conceive how a man ſhould be ſo filled with prejudice againſt a Peo<g ref="char:EOLhyphen"/>ple that never gave him any juſt occaſion. But his mea<g ref="char:EOLhyphen"/>ſure being filled, he was cut off as before related.</p>
+               <p>Prieſt <hi>Kenny</hi> his Country-man preach'd his Funeral Ser<g ref="char:EOLhyphen"/>mon, and declared as followeth—<hi>That he had attained to the Prudence of a Judge, the Dignity of a Colonel, and the
+<pb n="22" facs="tcp:93222:12"/>Honour of a Counſellor; and that he had ſerved his King and Countrey faithfully, and died a Saint.</hi> His Text was, <hi>I have fought a good Fight, I have finiſhed my Courſe, I have kept the Faith,</hi> &amp;c. 2 <hi>Tim.</hi> 4.7. How this ſuited with his Actions, we leave the Reader the Judge.</p>
+            </div>
+            <div type="part">
+               <head>Sir <hi>Timothy Thorn hill,</hi> and Major General, (So Called)</head>
+               <p>A Man who wanted not will to have taken away our Lives, as he often threatned; a Man full of wicked and blaſphemous Diſcourſe; and it may be ſaid of him, <hi>He neither feared God nor Man,</hi> as his following Actions will declare: Being at a Feaſt, and drinking to exceſs, and ſome of them refuſing to drink ſo hard, <hi>he wiſhed himſelf God Almighty, that he might Damn the Souls of them that would not drink:</hi> Another time, being in company where a Wo<g ref="char:EOLhyphen"/>man being ſpeaking in diſcourſe of the Power and Omni<g ref="char:EOLhyphen"/>potency of Almighty God, he replied, <hi>God Damn ye, go to the top of yonder Tree,</hi> (pointing to a Tree near them) <hi>and tumble down, and ſee if God Almighty can ſave you from break<g ref="char:EOLhyphen"/>ing your Neck before you come to the bottom.</hi> A Friend ſtand<g ref="char:EOLhyphen"/>ing by, reprehended him for ſuch wicked Expreſſions, for which he beat the Friend, calling him <hi>Son of a Whore,</hi> and asked <hi>if he were to be taught by him?</hi> A Friend being brought before him for not appearing in Arms, told him <hi>he could not for Conſcience-ſake;</hi> to which he replied, <hi>God Damn your Conſcience; if I cannot make your Conſcience bow, I'll make your ſtubborn Dogs Back bend;</hi> and ſo ty'd him Neck and Heels with his own hands, with that Violence and Rage, that almoſt deprived him of Life. Articles of War being publiſhed in this Iſland, he then ſwore deſperately <hi>that now he had power, and would put them in E<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ecution, and the
+<pb n="23" facs="tcp:93222:12" rendition="simple:additions"/>firſt time an Enemy appeared, he would hang up the Quakers;</hi> binding his words with bitter Oaths (without which he could hardly ſpeak.) He having been lately ſick, and pret<g ref="char:EOLhyphen"/>ty well recovered, boaſted among his Companions of his Conqueſt over Death, and that <hi>he had taken a New Leaſe of his Life from God Almighty for Thirty years longer,</hi> and ſo continued in his Wickedneſs, and hath often been heard to ſay, <hi>He would live more in a Month, than others ſhould in a Year.</hi> But in few months this poor Man was viſited again by the hand of the Lord, and his large Meaſure be<g ref="char:EOLhyphen"/>ing full, the Thread of his Life was cut aſunder, notwith<g ref="char:EOLhyphen"/>ſtanding his New Leaſe; Unlamented by the moderate People of the Iſ<gap reason="illegible" resp="#MURP" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>d, and Curſt by others, who loſt con<g ref="char:EOLhyphen"/>ſiderably by him; who notwithſtanding a great Eſtate left him by his Father, died (by a moderate Caleulation) Eight thouſand pounds <hi>ſterling</hi> worſe than nothing, as is credibly diſcourſed, and heavily felt by the Sufferers.</p>
+            </div>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
